@@ -1,0 +1,67 @@
+h1 {
+    color: blue;
+
+}
+.one {
+    color: blue;
+}
+p {
+    font-family: sans-serif;
+    font-size: large;
+}
+img {
+    float: right;
+}
+ul {
+    font-size: medium;
+}
+.history {
+    border-style: solid;
+    border-color: blueviolet;
+    background-color: aqua;
+}
+.clubs {
+    font-size: larger;
+    color: black;
+}
+#funfact {
+    border-style: dotted;
+    float: right;
+    border-color: purple;
+    background-color: cadetblue;
+    width: 350px;
+    height: 350px;
+}
+#logo {
+    width: 50px;
+    height: 50px;
+    float: right;
+}
+.about {
+    border-style: solid;
+    border-color: blue;
+    background-color: cadetblue;
+
+}
+body {
+    background-color: lavenderblush;
+}
+.projects {
+    font-size: larger;
+    color: black;
+    border-style: double;
+    background-color: chartreuse;
+}
+#intro{
+    font-size: x-large;
+}
+#list{
+    font-size: large;
+     font-family: sans-serif;
+}
+.interest{
+     border-style: solid;
+    border-color: red;
+    background-color: gray;
+
+}
