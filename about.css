@@ -68,4 +68,8 @@ body {
 
 .pic{
     float: left;
+    border-style: solid;
+    border-color: coral;
+    background-color: darkgray;
+    width: 1000px;
 }
